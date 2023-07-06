@@ -9,6 +9,7 @@ metadata:
     backstage.io/kubernetes-id: dice-roller
     backstage.io/kubernetes-namespace: default
     janus-idp.io/tekton-enabled : 'true'
+    backstage.io/techdocs-ref: dice-roller
 spec:
   type: service
   lifecycle: production
